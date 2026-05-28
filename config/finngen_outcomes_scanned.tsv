@@ -1,0 +1,501 @@
+id	trait	sample_size	ncase	year	consortium
+finn-b-RX_PARACETAMOL_NSAID	Paracetamol of NSAID medication		172938	2021	NA
+finn-b-M13_MUSCULOSKELETAL	Diseases of the musculoskeletal system and connective tissue		115768	2021	NA
+finn-b-I9_CVD	Cardiovascular diseases		111108	2021	NA
+finn-b-RX_ANTIHYP	Antihypertensive medication - note that there are other indications		107287	2021	NA
+finn-b-J10_RESPIRATORY	Diseases of the respiratory system		107261	2021	NA
+finn-b-K11_GIDISEASES	Gastrointestinal diseases		107110	2021	NA
+finn-b-N14_GENITOURINARY	Genitourinary diseases		103238	2021	NA
+finn-b-FG_CVD	Cardiovascular diseases (excluding rheumatic etc)		101866	2021	NA
+finn-b-Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_EXAM_INVES	Persons encountering health services for examination and investigation		100715	2021	NA
+finn-b-PAIN	Pain (limb, back, neck, head abdominally)		87242	2021	NA
+finn-b-O15_PREG_BIRTH_PUERP	Pregnancy, childbirth and the puerperium		80417	2021	NA
+finn-b-E4_ENDONUTRMET	Endocrine, nutritional and metabolic diseases		77918	2021	NA
+finn-b-GAST_OPER	Any gastric operation		76241	2021	NA
+finn-b-H7_EYE	Diseases of the eye and adnexa		75836	2021	NA
+finn-b-M13_ARTHROPATHIES	Arthropathies		71571	2021	NA
+finn-b-G6_NEURO	Neurological diseases		70240	2021	NA
+finn-b-RX_STATIN	Statin medication		68782	2021	NA
+finn-b-O15_DELIVERY	Delivery		63978	2021	NA
+finn-b-I9_OTHHEART	Other heart diseases (I9_OTHHEART)		62081	2021	NA
+finn-b-COPD_ASTHMA_INFECTIONS	COPD/asthma related infections		58925	2021	NA
+finn-b-PULM_INFECTIONS	COPD/asthma/ILD related infections		58925	2021	NA
+finn-b-ANTIDEPRESSANTS	Depression medications		58842	2021	NA
+finn-b-O15_DELIV_SPONT	Single spontaneous delivery		58719	2021	NA
+finn-b-FG_OTHHEART	Other heart diseases (FG_OTHHEART)		58173	2021	NA
+finn-b-AB1_INFECTIONS	Certain infectious and parasitic diseases		57998	2021	NA
+finn-b-R18_SYMPTOMS_SIGNS_INVOLVI_DIGES_SYSTEM_ABDOMEN	Symptoms and signs involving the digestive system and abdomen		56824	2021	NA
+finn-b-DM_COMORB_EXMORE	Diabetes-related co-morbidities/complications (more controls excluded)		56591	2021	NA
+finn-b-I9_HYPERTENSION	Hypertensive diseases		55955	2021	NA
+finn-b-FG_HYPERTENSION	Hypertensive diseases (excluding secondary)		55955	2021	NA
+finn-b-I9_HYPTENS	Hypertension		55917	2021	NA
+finn-b-I9_HYPTENS_EXNONE	Hypertension (no controls excluded)		55917	2021	NA
+finn-b-R18_SYMPTOMS_SIGNS_INVOLVI_CIRCULATO_RESPI_SYSTEMS	Symptoms and signs involving the circulatory and respiratory systems		55669	2021	NA
+finn-b-N14_FEMALEGENNONINF	Noninflammatory disorders of female genital tract		54610	2021	NA
+finn-b-F5_PSYCH	Psychiatric diseases		54496	2021	NA
+finn-b-M13_DORSOPATHY	Dorsopathies		54110	2021	NA
+finn-b-Z21_OTHER_SPECIAL_EXAM_INVES_PERSONS_WO_COMPLA_REPOR_DIAGNOSIS	Other special examinations and investigations of persons without complaint or reported diagnosis		53193	2021	NA
+finn-b-KRA_PSY_ANYMENTAL_SUICID_PREG_NERV	Any mental disorder, or suicide (or attempt), or psychic disorders complicating pregnancy, partum or puerperum or nerve system disorders		52473	2021	NA
+finn-b-CD2_BENIGN	Benign neoplasms		52384	2021	NA
+finn-b-CD2_BENIGN_EXALLC	Benign neoplasms (all cancers excluded)		52384	2021	NA
+finn-b-KRA_PSY_ANYMENTAL	Any mental disorder		52208	2021	NA
+finn-b-VWXY20_SUICI_OTHER_INTENTI_SELF_H	Suicide or other Intentional self-harm		52208	2021	NA
+finn-b-L12_SKIN	Diseases of the skin and subcutaneous tissue		51428	2021	NA
+finn-b-M13_SOFTTISSUE	Soft tissue disorders		51151	2021	NA
+finn-b-J10_UPPERDIS	Other diseases of upper respiratory tract		50943	2021	NA
+finn-b-R18_ABDOMI_PELVIC_PAIN	Abdominal and pelvic pain		49416	2021	NA
+finn-b-RHEUMA_ENDPOINTS	Finngen Rheumatological endpoints		45958	2021	NA
+finn-b-R18_GENERAL_SYMPTOMS_SIGNS	General symptoms and signs		45793	2021	NA
+finn-b-M13_OTHERJOINT	Other joint disorders		43972	2021	NA
+finn-b-I9_HYPTENSESS_EXNONE	"""Hypertension, essential"" (no controls excluded)"		42857	2021	NA
+finn-b-I9_HYPTENSESS	Hypertension, essential		42857	2021	NA
+finn-b-G6_EPIPAROX	Episodal and paroxysmal disorders		42685	2021	NA
+finn-b-AUTOIMMUNE	Autoimmune diseases		42202	2021	NA
+finn-b-H8_EAR	Diseases of the ear and mastoid process		41038	2021	NA
+finn-b-M13_ARTHROSIS_INCLAVO	Artrosis, including avohilmo		39859	2021	NA
+finn-b-M13_DORSOPATHYOTH	Other dorsopathies, not elsewhere classified		39640	2021	NA
+finn-b-I9_VHD	Valvular heart disease including rheumatic fever		38209	2021	NA
+finn-b-I9_VHD_EXNONE	Valvular heart disease including rheumatic fever (no controls excluded)		38209	2021	NA
+finn-b-C3_CANCER	Malignant neoplasm		38036	2021	NA
+finn-b-M13_ARTHROSIS	Arthrosis		37233	2021	NA
+finn-b-Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_CIRCUMSTANC_RELATED_REPRODUCTION	Persons encountering health services in circumstances related to reproduction		37225	2021	NA
+finn-b-RX_CROHN_1STLINE	First line medication for Crohns disease		36764	2021	NA
+finn-b-K11_INTESTOTH	Other diseases of intestines		36369	2021	NA
+finn-b-DIABETES_FG	Diabetes, varying definitions		36219	2021	NA
+finn-b-I9_VALVES	Valvular operations		36155	2021	NA
+finn-b-I9_VALVES_EXNONE	Valvular operations (no controls excluded)		36155	2021	NA
+finn-b-J10_UPPERINFEC	Acute upper respiratory infections		35847	2021	NA
+finn-b-E4_DIABETES	Diabetes mellitus		35607	2021	NA
+finn-b-O15_PREG_ABORT	Pregnancy with abortive outcome		34239	2021	NA
+finn-b-Z21_MEDICAL_OBSER_EVALU_SUSPECTED_DISEA_CONDI	Medical observation and evaluation for suspected diseases and conditions		33448	2021	NA
+finn-b-E4_DM2	Type 2 diabetes		32469	2021	NA
+finn-b-CARDIAC_ARRHYTM	Cardiac arrhytmias		32416	2021	NA
+finn-b-J10_LOWCHRON	Chronic lower respiratory diseases		32069	2021	NA
+finn-b-I9_IHD	Ischaemic heart disease, wide definition		31640	2021	NA
+finn-b-DM_OTHER_WIDE	Other diabetes, wide definition		31626	2021	NA
+finn-b-E4_THYROID	Disorders of the thyroid gland		31108	2021	NA
+finn-b-I9_ISCHHEART	Ischemic heart diseases		30952	2021	NA
+finn-b-J10_INFLUPNEU	Influenza and pneumonia		29924	2021	NA
+finn-b-I9_CVD_HARD	Hard cardiovascular diseases		29350	2021	NA
+finn-b-T2D	Type 2 diabetes, definitions combined		29193	2021	NA
+finn-b-H7_LENS	Disorders of lens		29188	2021	NA
+finn-b-E4_DM2_STRICT	Type 2 diabetes, strict (exclude DM1)		29166	2021	NA
+finn-b-K11_OESSTODUO	Diseases of oesophagus, stomach and duodenum		29097	2021	NA
+finn-b-KELA_DIAB_INSUL_EXMORE	"""Diabetes, insuline treatment (Kela reimbursement)"" (more controls excluded)"		29071	2021	NA
+finn-b-KELA_DIAB_INSUL	Diabetes, insuline treatment (Kela reimbursement)		29071	2021	NA
+finn-b-M13_DORSALGIA	Dorsalgia		28785	2021	NA
+finn-b-I9_DISVEINLYMPH	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified		28764	2021	NA
+finn-b-T2D_INCLAVO	Type 2 diabetes, definitions combined, including avohilmo		28717	2021	NA
+finn-b-RX_CODEINE_TRAMADOL	Codeine or tramadol medication		28511	2021	NA
+finn-b-K11_HERNIA	Hernia		28235	2021	NA
+finn-b-COPD_ASTHMA_PNEUMONIA_SEPSIS	COPD/asthma related pneumonia or pneumonia derived septichaemia		27715	2021	NA
+finn-b-PULM_PNEUMONIA_SEPSIS	COPD/asthma/ILD related pneumonia or pneumonia derived septichaemia		27715	2021	NA
+finn-b-ST19_INJURI_KNEE_LOWER_LEG	Injuries to the knee and lower leg		27614	2021	NA
+finn-b-Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC1	Persons encountering health services in other circumstances (Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC1)		27430	2021	NA
+finn-b-J10_PNEUMONIA	All pneumoniae		27370	2021	NA
+finn-b-BRONCHITIS	Bronchitis		27361	2021	NA
+finn-b-J10_PNEUMOPROBBAC	Pneumonia (excl. viral and due to other infectious organisms not elsewhere classified)		26809	2021	NA
+finn-b-H7_CATARACTSENILE	Senile cataract		26758	2021	NA
+finn-b-F5_MOOD	Mood [affective] disorders		26572	2021	NA
+finn-b-KRA_PSY_MOOD	Mood disorders		26537	2021	NA
+finn-b-KRA_PSY_MOOD_EXMORE	Mood disorders (more controls excluded)		26537	2021	NA
+finn-b-HYPOTHYROIDISM	Hypothyroidism (congenital or acquired)		26342	2021	NA
+finn-b-E4_HYTHYNAS	Hypothyroidism,  other/unspecified		26306	2021	NA
+finn-b-HYPOTHY_PURCHASE	Hypothyroidism and >3 levothyroxin purchases		26064	2021	NA
+finn-b-HYPOTHY_LEVOTHY	Hypothyroidism, levothyroxin purchases		26064	2021	NA
+finn-b-E4_HYTHY_AI_STRICT_PURCH	Hypothyroidism, strict autoimmune, 3 medication purchases required		26064	2021	NA
+finn-b-Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_SPECIFIC_PROCED_HEALTH_CARE	Persons encountering health services for specific procedures and health care		25222	2021	NA
+finn-b-R18_ABNORMALITI_BREAT	Abnormalities of breathing		25139	2021	NA
+finn-b-O15_COMPLIC_LAB_DELIV	Complications of labour and delivery		24953	2021	NA
+finn-b-FG_DISVEINLYMPH	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified (FINNGEN)		24817	2021	NA
+finn-b-R18_PAIN_THROAT_CHEST	Pain in throat and chest		24609	2021	NA
+finn-b-J10_CHRONTONSADEN	Chronic diseases of tonsils and adenoids		24463	2021	NA
+finn-b-E4_DM2NASCOMP	Type 2 diabetes with other specified/multiple/unspecified complications		24133	2021	NA
+finn-b-G6_NERPLEX	Nerve, nerve root and plexus disorders		23745	2021	NA
+finn-b-Z21_PERSONS_W_POTEN_HEALTH_HAZARDS_RELATED_FAMILY_PERSONAL_HISTORY_CERTA_CONDI_INFLUENCI_HEALTH_STATUS	Persons with potential health hazards related to family and personal history and certain conditions influencing health status		23745	2021	NA
+finn-b-I9_HEARTFAIL_AND_OVERWEIGHT	Heart failure and bmi 25plus		23701	2021	NA
+finn-b-I9_HEARTFAIL_NS	Heart failure, not strict		23701	2021	NA
+finn-b-N14_URINOTH	Other diseases of urinary system		23652	2021	NA
+finn-b-K11_GALLBILPANC	Disorders of gallbladder, biliary tract and pancreas		23648	2021	NA
+finn-b-F5_DEPRESSIO	Depression		23424	2021	NA
+finn-b-I9_HEARTFAIL_ALLCAUSE	All-cause Heart Failure		23397	2021	NA
+finn-b-K11_ORAL	Diseases of oral cavity, salivary glands and jaws		23397	2021	NA
+finn-b-J10_PNEUMONAS	Pneumonia, organism unsepcified		23390	2021	NA
+finn-b-I9_CORATHER	Coronary atherosclerosis		23363	2021	NA
+finn-b-I9_CORATHER_EXNONE	Coronary atherosclerosis (no controls excluded)		23363	2021	NA
+finn-b-E4_HYTHY_AI_STRICT	Hypothyroidism, strict autoimmune		22997	2021	NA
+finn-b-M13_ARTHROSIS_KNEE	Gonarthrosis		22796	2021	NA
+finn-b-KNEE_ARTHROSIS	Gonarthrosis [arthrosis of knee](FG)		22796	2021	NA
+finn-b-ST19_INJURI_HEAD	Injuries to the head		22538	2021	NA
+finn-b-N14_MALEGEN	Diseases of male genital organs		22414	2021	NA
+finn-b-R18_SYMPTOMS_SIGNS_INVOLVI_COGNITION_PERCEP_EMOTIONAL_STATE_BEHVI	Symptoms and signs involving cognition, perception, emotional state and behaviour		22409	2021	NA
+finn-b-J10_ASTHMA_INCLAVO	Asthma, including avohilmo		22244	2021	NA
+finn-b-H8_OTHEREAR	Other disorders of ear		22200	2021	NA
+finn-b-I9_HEARTFAIL_AND_ANTIHYPERT	Heart failure and antihypertensive medication		22113	2021	NA
+finn-b-I9_AF	Atrial fibrillation and flutter		22068	2021	NA
+finn-b-I9_AF_EXNONE	Atrial fibrillation and flutter (no controls excluded)		22068	2021	NA
+finn-b-ILD_ENDPOINTS	Interstitial lung disease endpoints		21806	2021	NA
+finn-b-Z21_GENERAL_EXAM_INVES_PERSONS_WO_COMPLA_REPOR_DIAGNOSIS	General examination and investigation of persons without complaint and reported diagnosis		21663	2021	NA
+finn-b-E4_METABOLIA	Metabolic disorders		21533	2021	NA
+finn-b-AB1_INTESTINAL_INFECTIONS	Intestinal infectious diseases		21494	2021	NA
+finn-b-J10_ASTHMACOPDKELA	Asthma/COPD (KELA code 203)		21444	2021	NA
+finn-b-AB1_OTHER_BACTERIAL	Other bacterial diseases		21132	2021	NA
+finn-b-I9_CHD	Major coronary heart disease event		21012	2021	NA
+finn-b-KRA_PSY_ANXIETY	Anxiety disorders		20992	2021	NA
+finn-b-KRA_PSY_ANXIETY_EXMORE	Anxiety disorders (more controls excluded)		20992	2021	NA
+finn-b-AB1_BACTINF_NOS	Bacterial infection, other or unspecified		20977	2021	NA
+finn-b-F5_NEUROTIC	Neurotic, stress-related and somatoform disorders		20682	2021	NA
+finn-b-J10_ASTHMA	Asthma		20629	2021	NA
+finn-b-J10_ASTHMA_EXMORE	Asthma (more controls excluded)		20629	2021	NA
+finn-b-O15_ABORT_MEDICAL	Medical abortion		20570	2021	NA
+finn-b-M13_ARTHROSIS_KNEE_PRIM_ICD10	Gonarthrosis,primary		20523	2021	NA
+finn-b-L12_DERMATITISECZEMA	Dermatitis and eczema		20052	2021	NA
+finn-b-M13_INTERVERTEB	Other intervertebral disc disorders		20001	2021	NA
+finn-b-CHOLELITH_BROAD	Cholelithiasis, broad definition with cholecystitis		19883	2021	NA
+finn-b-ST19_INJURI_WRIST_HAND	Injuries to the wrist and hand		19756	2021	NA
+finn-b-OPER_ARTIF_JOINT_MENISC_RESECT	Articial joint operation, menisceal resection		19723	2021	NA
+finn-b-MIGRAINE_TRIPTAN	Migraine, single triptan purchase ok & required. ICD-code if available is included		19676	2021	NA
+finn-b-M13_KNEEDERANGEMENTS	Internar derangement of knee		19627	2021	NA
+finn-b-ASTHMA_MODE	Asthma (mode)		19573	2021	NA
+finn-b-ST19_COMPLICATIO_SURGI_MEDICAL_CARE_NOT_ELSEW_CLASSIFIED	Complications of surgical and medical care, not elsewhere classified		19521	2021	NA
+finn-b-M13_LOWBACKPAINORANDSCIATICA	Lower back pain or/and sciatica		19509	2021	NA
+finn-b-D3_BLOOD	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism		19444	2021	NA
+finn-b-O15_MATERN_CARE	Maternal care related to the fetus and amniotic cavity and possible delivery problems		19332	2021	NA
+finn-b-SLEEP	Sleep disorders (combined)		19155	2021	NA
+finn-b-Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_COUNSELLI_MEDICAL_ADVICE_NOT_ELSEW_CLASSIFIED	Persons encountering health services for other counselling and medical advice, not elsewhere classified		19084	2021	NA
+finn-b-K11_CHOLELITH	Cholelithiasis		19023	2021	NA
+finn-b-M13_SOFTTISSUEOTH	Other soft tissue disorders, not elsewhere classified		19010	2021	NA
+finn-b-C_STROKE	STROKE		18661	2021	NA
+finn-b-M13_SPONDYLOPATHY	Spondylopathies		18550	2021	NA
+finn-b-M13_SHOULDER	Shoulder lesions		18197	2021	NA
+finn-b-I9_ANGINA	Angina pectoris		18168	2021	NA
+finn-b-I9_ANGINA_EXNONE	Angina pectoris (no controls excluded)		18168	2021	NA
+finn-b-CD2_BENIGN_LEIOMYOMA_UTERI	Leiomyoma of uterus		18060	2021	NA
+finn-b-CD2_BENIGN_LEIOMYOMA_UTERI_EXALLC	Leiomyoma of uterus (all cancers excluded)		18060	2021	NA
+finn-b-J10_ACUTEUPPERINFEC	Acute upper respiratory infections of multiple and unspecified sites		17920	2021	NA
+finn-b-N14_MESNRUIRREG	Excessive, freguent and irrelgular menstruation		17873	2021	NA
+finn-b-Z21_ANTEN_SCREE	Antenatal screening		17826	2021	NA
+finn-b-N14_RENALTUB	Renal tubulo-intestitial diseases		17764	2021	NA
+finn-b-J10_ASTHMA_MAIN	Asthma (only as main-diagnosis)		17438	2021	NA
+finn-b-J10_ASTHMA_MAIN_EXMORE	Asthma (only as main-diagnosis) (more controls excluded)		17438	2021	NA
+finn-b-ASTHMA_HOSPITAL_MAIN	Asthma, hospital admissions , main diagnosis only		17433	2021	NA
+finn-b-H8_CONSENHEARINGLOSS	Conductive and sensorineural hearing loss		17337	2021	NA
+finn-b-T2D_WIDE	Type 2 diabetes, wide definition		17268	2021	NA
+finn-b-K11_CONSTIPATION	Constipation		17246	2021	NA
+finn-b-K11_HERING	Inguinal hernia		17096	2021	NA
+finn-b-I9_VARICVE	Varicose veins		17027	2021	NA
+finn-b-I9_VARICVE_EXNONE	Varicose veins (no controls excluded)		17027	2021	NA
+finn-b-K11_APPENDIX	Diseases of appendix		16906	2021	NA
+finn-b-G6_SLEEPAPNO_INCLAVO	Sleep apnoea, including avohilmo		16794	2021	NA
+finn-b-APPENDICITIS_BROAD	Appendicitis, broad definition		16766	2021	NA
+finn-b-G6_SLEEPAPNO	Sleep apnoea		16761	2021	NA
+finn-b-R18_DYSPNOEA	Dyspnoea		16574	2021	NA
+finn-b-M13_JOINTOTH	Other specific joint derangements/joint disorders		16132	2021	NA
+finn-b-H8_HL_SEN_NAS	Sensorineural hearing loss		15952	2021	NA
+finn-b-ST19_INJURI_SHOUL_UPPER_ARM	Injuries to the shoulder and upper arm		15926	2021	NA
+finn-b-N14_URETHRAOTH	Other disorders of urethra and urinary system		15905	2021	NA
+finn-b-R18_SYMPTOMS_SIGNS_INVOLVI_URINARY_SYSTEM	Symptoms and signs involving the urinary system		15882	2021	NA
+finn-b-H7_CHOROIDRETINA	Disorders of choroid and retina		15774	2021	NA
+finn-b-I9_CEREBVASC	Cerebrovascular diseases		15724	2021	NA
+finn-b-K11_APPENDACUT	Acute appendicitis		15627	2021	NA
+finn-b-H7_LIDLACRIMALORBIT	Disorders of eyelid, lacrimal system and orbit		15561	2021	NA
+finn-b-ST19_COMPLICATIO_PROCED_NOT_ELSEW_CLASSIFIED	Complications of procedures, not elsewhere classified		15487	2021	NA
+finn-b-H7_CONJUNCTIVA	Disorders of conjunctiva		15275	2021	NA
+finn-b-AB1_GASTROENTERITIS_NOS	Diarrhoea and gastroenteritis of presumed infectious origin		15255	2021	NA
+finn-b-M13_POLYARTHROPATHIES	Polyarthropathies		15246	2021	NA
+finn-b-DEATH	Any death		15152	2021	NA
+finn-b-Z21_SUPERV_NORMAL_PREGNAC1	Supervision of normal pregnancy		15123	2021	NA
+finn-b-R18_DIZZI_GIDDI	Dizziness and giddiness		14888	2021	NA
+finn-b-E4_DM2NOCOMP	Type 2 diabetes without complications		14622	2021	NA
+finn-b-DM_RETINOPATHY	Diabetic retinopathy (DM_RETINOPATHY)		14584	2021	NA
+finn-b-DM_RETINOPATHY_EXMORE	Diabetic retinopathy (more controls excluded)		14584	2021	NA
+finn-b-K11_DIVERTIC	Diverticular disease of intestine		14357	2021	NA
+finn-b-E4_LIPOPROT	Disorders of lipoprotein metabolism and other lipidaemias		14010	2021	NA
+finn-b-Z21_EXAM_OBSER_OTH_REASO	Examination and observation for other reasons		13990	2021	NA
+finn-b-FG_CEREBVASC	Cerebrovascular diseases (FINNGEN)		13700	2021	NA
+finn-b-H7_CONJUNCTIVITIS	Conjunctivitis		13655	2021	NA
+finn-b-M13_MENISCUSDERANGEMENTS	Meniscus derangement		13568	2021	NA
+finn-b-JOINTPAIN	Pain in joint		13419	2021	NA
+finn-b-ALCOHOL_RELATED	Alcohol related diseases and deaths, all endoints		13361	2021	NA
+finn-b-R18_HEADACHE1	Headache		13345	2021	NA
+finn-b-I9_OTHARR	Other arrhytmias		13250	2021	NA
+finn-b-I9_OTHARR_EXNONE	Other arrhytmias (no controls excluded)		13250	2021	NA
+finn-b-O15_PREG_OTHER_MAT_DISORD	Other maternal disorders predominantly related to pregnancy		13249	2021	NA
+finn-b-M13_LOWBACKPAIN	Low back pain		13178	2021	NA
+finn-b-ST19_INTRACRATRAUMA	Intracranial trauma		13165	2021	NA
+finn-b-Z21_CONTRACEPTIVE_MANAG	Contraceptive management		13141	2021	NA
+finn-b-K11_REFLUX	Gastro-oesophageal reflux disease		13141	2021	NA
+finn-b-F5_SUBSTANCE	Mental and behavioural disorders due to psychoctive substance use		13133	2021	NA
+finn-b-N14_PROSTHYPERPLA	Hyperplasia of prostate		13118	2021	NA
+finn-b-I9_HEARTFAIL_EXNONE	"""Heart failure,strict"" (no controls excluded)"		13087	2021	NA
+finn-b-I9_HEARTFAIL	Heart failure,strict		13087	2021	NA
+finn-b-ST19_INJURI_ELBOW_FOREA	Injuries to the elbow and forearm		13024	2021	NA
+finn-b-G6_OTHNEU	Other neurological diseases		12993	2021	NA
+finn-b-F5_UNSMENDIS	Unspecified mental disorder		12907	2021	NA
+finn-b-H8_MIDDLEMASTOID	Diseases of middle ear and mastoid		12853	2021	NA
+finn-b-KRA_PSY_SUBSTANCE	Substance abuse		12819	2021	NA
+finn-b-KRA_PSY_SUBSTANCE_EXMORE	Substance abuse (more controls excluded)		12819	2021	NA
+finn-b-I9_MI	Myocardial infarction		12801	2021	NA
+finn-b-I9_MI_EXNONE	Myocardial infarction (no controls excluded)		12801	2021	NA
+finn-b-Z21_FOLLOW__EXAM_TREAT_CONDI_OTH_MALIG_NEOPLASMS	Follow-up examination after treatment for conditions other than malignant neoplasms		12645	2021	NA
+finn-b-I9_STR_SAH_EXNONE	"""Stroke, including SAH"" (no controls excluded)"		12632	2021	NA
+finn-b-I9_STR_SAH	Stroke, including SAH		12632	2021	NA
+finn-b-M13_LIMBPAIN	Pain in limb		12606	2021	NA
+finn-b-F5_ALLANXIOUS	All anxiety disorders		12513	2021	NA
+finn-b-M13_ROTATORCUFF	Rotator cuff syndrome		12508	2021	NA
+finn-b-OFFICIAL_TILASTOKESKUS	Alcohol related diseases, tilastokeskus definition		12484	2021	NA
+finn-b-D3_ANAEMIA	Anaemias		12434	2021	NA
+finn-b-I9_REVASC	Coronary revascularization (ANGIO or CABG)		12271	2021	NA
+finn-b-I9_REVASC_EXNONE	Coronary revascularization (ANGIO or CABG) (no controls excluded)		12271	2021	NA
+finn-b-I9_REVACS_EXNONE	Emergency coronary revascularization (for ACS) (no controls excluded)		12271	2021	NA
+finn-b-I9_DOAAC	Diseases of arteries, arterioles and capillaries		12251	2021	NA
+finn-b-AUD_SWEDISH	Alcohol use disorder, Swedish definition		12204	2021	NA
+finn-b-Z21_CARE_INVOLVI_USE_REHAB_PROCED	Care involving use of rehabilitation procedures		12172	2021	NA
+finn-b-ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_KNEE	Dislocation, sprain and strain of joints and ligaments of knee		12126	2021	NA
+finn-b-F5_KELAMENT	Kela-cod for severe mental illness		12047	2021	NA
+finn-b-ST19_INJURI_ANKLE_FOOT	Injuries to the ankle and foot		11988	2021	NA
+finn-b-APPENDACUT_NOCOMPLIC	Acute appendicitis, no complications		11899	2021	NA
+finn-b-I9_STR_EXNONE	"""Stroke, excluding SAH"" (no controls excluded)"		11734	2021	NA
+finn-b-I9_STR	Stroke, excluding SAH		11734	2021	NA
+finn-b-N14_FEMALEGENINF	Inflammatory diseases of female pelvic organs		11721	2021	NA
+finn-b-I9_MI_STRICT_EXNONE	"""Myocardial infarction, strict"" (no controls excluded)"		11622	2021	NA
+finn-b-I9_MI_STRICT	Myocardial infarction, strict		11622	2021	NA
+finn-b-I9_NONISCHCARDMYOP	Non-ischemic cardiomyopathy		11400	2021	NA
+finn-b-L12_OTHERSKINSUBCUTIS	Other disorders of skin and subcutaneous tissue		11310	2021	NA
+finn-b-R18_SYMPTOMS_SIGNS_INVOLVI_SKIN_SUBCU_TISSUE	Symptoms and signs involving the skin and subcutaneous tissue		11244	2021	NA
+finn-b-N14_PYELONEPHR	Acute tubulo-interstitial nephritis		11216	2021	NA
+finn-b-G6_CARPTU	Carpal tunnel syndrome		11208	2021	NA
+finn-b-RX_GLUCOSAMINE	Glucosamine medication		11199	2021	NA
+finn-b-F5_ALCOHOL	Mental and behavioural disorders due to alcohol		11100	2021	NA
+finn-b-H7_RETINALDISOTH	Other retinal disorders		11096	2021	NA
+finn-b-K11_REIMB_202	KELA_REIMBURSEMENT_202		10919	2021	NA
+finn-b-J10_SINUSITIS	Acute sinusitis		10916	2021	NA
+finn-b-N14_OVARYCYST	Ovarian cyst		10848	2021	NA
+finn-b-COX_ARTHROSIS	Coxarthrosis [arthrosis of hip](FG)		10709	2021	NA
+finn-b-M13_ARTHTROSIS_COX	Coxarthrosis,		10709	2021	NA
+finn-b-I9_STR_EXH_EXNONE	"""Ischaemic Stroke, excluding all haemorrhages"" (no controls excluded)"		10551	2021	NA
+finn-b-I9_STR_EXH	Ischaemic Stroke, excluding all haemorrhages		10551	2021	NA
+finn-b-ST19_CONCUSSION	Concussion		10527	2021	NA
+finn-b-I9_AF_REIMB	Atrial fibrillation and flutter with reimbursement		10516	2021	NA
+finn-b-ST19_FRACT_LOWER_LEG_INCLU_ANKLE	Fracture of lower leg, including ankle		10489	2021	NA
+finn-b-M13_SYNOTEND	Disorders of synovium and tendon		10469	2021	NA
+finn-b-C3_SKIN	Malignant neoplasm of skin		10384	2021	NA
+finn-b-C3_SKIN_EXALLC	Malignant neoplasm of skin (all cancers excluded)		10384	2021	NA
+finn-b-C3_OTHER_SKIN	Other malignant neoplasms of skin (=non-melanoma skin cancer)		10382	2021	NA
+finn-b-C3_OTHER_SKIN_EXALLC	Other malignant neoplasms of skin (=non-melanoma skin cancer) (all cancers excluded)		10382	2021	NA
+finn-b-L12_INFECT_SKIN	Infections of the skin and subcutaneous tissue		10343	2021	NA
+finn-b-L12_DERMATITISNAS	Other and unspecified dermatitis (L12_DERMATITISNAS)		10308	2021	NA
+finn-b-I9_NONRHEVALV	Non-rheumatic valve diseases		10235	2021	NA
+finn-b-I9_NONRHEVALV_EXNONE	Non-rheumatic valve diseases (no controls excluded)		10235	2021	NA
+finn-b-M13_ARTHROSIS_OTH	Other arthrosis		10192	2021	NA
+finn-b-J10_VOCALLARYNX	Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified		10142	2021	NA
+finn-b-F5_SCHIZO	Schizophrenia, schizotypal and delusional disorders		10118	2021	NA
+finn-b-J10_LOWERINF	Other acute lower respiratory infections		10103	2021	NA
+finn-b-ASTHMA_INFECTIONS	Asthma-related infections		10095	2021	NA
+finn-b-KRA_PSY_SCHIZODEL	Schizophrenia or delusion		10091	2021	NA
+finn-b-KRA_PSY_SCHIZODEL_EXMORE	Schizophrenia or delusion (more controls excluded)		10091	2021	NA
+finn-b-AB1_ERYSIPELAS	Erysipelas		10019	2021	NA
+finn-b-ST19_FRACT_FOREA	Fracture of forearm		9956	2021	NA
+finn-b-ST19_INTRACR_INJURY	Intracranial injury		9914	2021	NA
+finn-b-H7_ALLERGICCONJUNCTIVITIS	Allergic conjunctivitis		9833	2021	NA
+finn-b-R18_ABNORMAL_FINDI_EXAMI_OTHER_BODY_FLUIDS_SUBST_TISSU_WO_DIAGNOSIS	Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis		9786	2021	NA
+finn-b-R18_FEVER_OTHER_UNKNO_ORIGIN	Fever of other and unknown origin		9745	2021	NA
+finn-b-M13_ARTHTROSIS_COX_PRIM_ICD10	Coxarthrosis, primary		9700	2021	NA
+finn-b-ALCOHOLMENTAL	Mental and behavioural disorders due to alcohol, excluding acute intoxication		9672	2021	NA
+finn-b-RX_CROHN_2NDLINE	Second line medication for Crohns disease		9669	2021	NA
+finn-b-R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_FUNCTION_STUDI_WO_DIAGNOSIS	Abnormal findings on diagnostic imaging and in function studies, without diagnosis		9624	2021	NA
+finn-b-FG_DOAAC	Diseases of arteries, arterioles and capillaries (FINNGEN)		9569	2021	NA
+finn-b-H7_SCLERACORNEA	Disorders of sclera, cornea, iris and ciliary body		9505	2021	NA
+finn-b-ASTHMA_NAS_EXMORE	"""Asthma, unspecified (mode)"" (more controls excluded)"		9443	2021	NA
+finn-b-ASTHMA_NAS	Asthma, unspecified (mode)		9443	2021	NA
+finn-b-H7_USEOFEYEANTIALLERGENS	Use of eye-antiallergens (taken as indicator of allergic/atopic conjunctivitis)		9431	2021	NA
+finn-b-R18_SYMPTOMS_SIGNS_INVOLVI_NERVOUS_MUSCULOS_SYSTEMS	Symptoms and signs involving the nervous and musculoskeletal systems		9423	2021	NA
+finn-b-M13_SPONDYLOSIS	Spondylosis		9371	2021	NA
+finn-b-CD2_BENIGN_COLORECANI_EXALLC	"""Benign neoplasm of colon, rectum, anus and anal canal"" (all cancers excluded)"		9312	2021	NA
+finn-b-CD2_BENIGN_COLORECANI	Benign neoplasm of colon, rectum, anus and anal canal		9312	2021	NA
+finn-b-F5_ORGANIC	Organic, including symptomatic, mental disorders		9305	2021	NA
+finn-b-M13_OSTEOCHONDRO	Osteopathies and chondropathies		9217	2021	NA
+finn-b-H8_INNER	Diseases of inner ear		9210	2021	NA
+finn-b-E4_NUTRIDEF	Other nutritional deficiencies		9185	2021	NA
+finn-b-I9_VTE	Venous thromboembolism		9176	2021	NA
+finn-b-M13_SPINSTENOSIS	Spinal stenosis		9169	2021	NA
+finn-b-O15_ABORT_SPONTAN	Spontaneous abortion		9113	2021	NA
+finn-b-N14_FEMGENPROL	Female genital prolapse		9092	2021	NA
+finn-b-E4_OBESITY_HYPER	Obesity and other hyperalimentation		8965	2021	NA
+finn-b-M13_SCIATICA	Siatica+with lumbago		8915	2021	NA
+finn-b-E4_OBESITY	Obesity		8908	2021	NA
+finn-b-I9_HEARTFAIL_AND_CHD	NA		8876	2021	NA
+finn-b-AUD	Alcohol use disorder, ICD-based		8866	2021	NA
+finn-b-O15_OEDEM_PROTUR_HYPERT	Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium		8844	2021	NA
+finn-b-G6_TIA	Transient ischemic attack (G6_TIA)		8835	2021	NA
+finn-b-I9_TIA	Transient ischemic attack (I9_TIA)		8835	2021	NA
+finn-b-E4_HYPERCHOL	Pure hypercholesterolaemia		8808	2021	NA
+finn-b-DM_RETINA_PROLIF	Proliferative diabetic retinopathy (DM_RETINA_PROLIF)		8681	2021	NA
+finn-b-M13_ARTHROSIS_KNEE_PRIM_KNEESURG	Gonarthrosis, primary, with knee surgery		8666	2021	NA
+finn-b-R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA	Abnormal findings in secretions and smears from cervix uteri vagina vulva		8616	2021	NA
+finn-b-H7_GLAUCOMA	Glaucoma		8591	2021	NA
+finn-b-N14_BREAST	Disorders of breast		8549	2021	NA
+finn-b-G6_MIGRAINE	Migraine		8547	2021	NA
+finn-b-M13_HALLUXVALGUS	Hallux valgus (acquired)		8536	2021	NA
+finn-b-J10_CHRONSINUSITIS	Chronic sinusitis		8524	2021	NA
+finn-b-K11_ENERCOLNONINF	Noninfective enteritis and colitis		8492	2021	NA
+finn-b-F5_ANXIETY	Other anxiety disorders		8454	2021	NA
+finn-b-PRIM_KNEEARTHROSIS	Primary gonarthrosis, bilateral		8410	2021	NA
+finn-b-C3_BREAST	Malignant neoplasm of breast		8401	2021	NA
+finn-b-C3_BREAST_EXALLC	Malignant neoplasm of breast (all cancers excluded)		8401	2021	NA
+finn-b-N14_ENDOMETRIOSIS	Endometriosis		8288	2021	NA
+finn-b-PNEUMOBACTKNOWN	Bacterial pneumonia (organism specified)		8269	2021	NA
+finn-b-L12_DERM_NAS	Other and unspecified dermatitis (L12_DERM_NAS)		8268	2021	NA
+finn-b-Z21_SUPERV_HIGH_R_PREGNAC	Supervision of high-risk pregnancy		8185	2021	NA
+finn-b-R18_SYNCO_COLLAP	Syncope and collapse		8140	2021	NA
+finn-b-Z21_PRESENCE_OTH_FUNCTIONAL_IMPLANTNTS	Presence of other functional implants		8136	2021	NA
+finn-b-ST19_OPEN_WOUND_HEAD	Open wound of head		8126	2021	NA
+finn-b-Z21_PRESENCE_CARDIAC_VASCULAR_IMPLANTNTS_GRAFTS	Presence of cardiac and vascular implants and grafts		8085	2021	NA
+finn-b-N14_CYSTITIS	Cystitis		8081	2021	NA
+finn-b-I9_DVTANDPULM	DVT of lower extremities and pulmonary embolism		7988	2021	NA
+finn-b-J10_PNEUMOBACT	Bacterial pneumoniae		7987	2021	NA
+finn-b-G6_HEADACHE	Other headache syndromes		7952	2021	NA
+finn-b-H7_VISUALDISTBLIND	Visual disturbances and blindness		7926	2021	NA
+finn-b-I9_ANGIO	Coronary angiopasty		7920	2021	NA
+finn-b-I9_ANGIO_EXNONE	Coronary angiopasty (no controls excluded)		7920	2021	NA
+finn-b-H7_CATARACTOTHER	Other cataract		7873	2021	NA
+finn-b-H7_OCUMUSCLE	Disorders of ocular muscles, binocular movement, accommodation and refraction		7861	2021	NA
+finn-b-K11_OTHDIG	Other diseases of the digestive system (K11_OTHDIG)		7828	2021	NA
+finn-b-R18_COUGH	Cough		7773	2021	NA
+finn-b-I9_HYPTENSPREG	Hypertension complicating pregnancy, childbirth, and the puerperium		7686	2021	NA
+finn-b-O15_HYPTENSPREG	Pregnancy hypertension		7686	2021	NA
+finn-b-D3_NUTRIANAEMIA	Nutritional anaemias		7677	2021	NA
+finn-b-E4_ENDOGLAND	Disorders of other endocrine glands		7669	2021	NA
+finn-b-L12_DISORDSKINAPPENDIX	Disorders of skin appendages		7653	2021	NA
+finn-b-ABDOM_HERNIA	Hernia of abodminal wall		7619	2021	NA
+finn-b-O15_POSTPART_DEPR	Postpartum depression		7604	2021	NA
+finn-b-I9_K_CARDIAC	Death due to cardiac causes		7563	2021	NA
+finn-b-N14_POLYPFEMGEN	Polyp of the female genital tract		7554	2021	NA
+finn-b-J10_PNEUMOBACTEROTH	Bacterial pneumonia, not elsewhere classified		7514	2021	NA
+finn-b-K11_OTHFUNC	Other functional intestinal disroders		7495	2021	NA
+finn-b-CD2_BENIGN_COLON	Benign neoplasm: Colon		7435	2021	NA
+finn-b-CD2_BENIGN_COLON_EXALLC	Benign neoplasm: Colon (all cancers excluded)		7435	2021	NA
+finn-b-F5_DEMENTIA_INCLAVO	Dementia, including avohilmo		7395	2021	NA
+finn-b-R18_MALAI_FATIG	Malaise and fatigue		7363	2021	NA
+finn-b-C3_BREAST_HER2NEG_EXALLC	"""Malignant neoplasm of breast, HER2-negative"" (all cancers excluded)"		7355	2021	NA
+finn-b-C3_BREAST_HER2NEG	Malignant neoplasm of breast, HER2-negative		7355	2021	NA
+finn-b-ASTHMA_ACUTE_RESPIRATORY_INFECTIONS	Asthma-related acute respiratory infections		7348	2021	NA
+finn-b-J10_BRONCHITIS	Acute bronchitis		7338	2021	NA
+finn-b-ST19_INJURI_HIP_THIGH	Injuries to the hip and thigh		7332	2021	NA
+finn-b-H8_VERTIGO	Disorders of vestibular function (Vertigo)		7321	2021	NA
+finn-b-J10_VASOALLERRHIN	Vasomotor and allergic rhinitis		7308	2021	NA
+finn-b-F5_STRESSOTH	Other reactioin to severe stress, and adjustment disorders		7296	2021	NA
+finn-b-F5_DEMENTIA	Dementia		7284	2021	NA
+finn-b-R18_MOUTH_BREAT	Mouth breathing		7282	2021	NA
+finn-b-M13_CERVICDISC	Cervical disc disorders		7274	2021	NA
+finn-b-H8_MED_SUPP	Suppurative and unspecified otitis media		7245	2021	NA
+finn-b-H7_VISUDISTURB	Visual disturbances		7201	2021	NA
+finn-b-HYPOTHY_REIMB	Hypothyroidism, drug reimbursement		7183	2021	NA
+finn-b-M13_DORSALGIANAS	Other/unspecified dorsalgia		7175	2021	NA
+finn-b-R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_COGNITIVE_FUNCTIONS_AWARE	Other symptoms and signs involving cognitive functions and awareness		7142	2021	NA
+finn-b-J10_TONSILLITIS	Other and unspecified tonssillitis		7113	2021	NA
+finn-b-I9_PAD	Peripheral artery disease		7098	2021	NA
+finn-b-I9_PAD_EXNONE	Peripheral artery disease (no controls excluded)		7098	2021	NA
+finn-b-H7_VITREOUS	Disorders of vitreous body and globe		7072	2021	NA
+finn-b-I9_UAP	Unstable angina pectoris		7058	2021	NA
+finn-b-I9_UAP_EXNONE	Unstable angina pectoris (no controls excluded)		7058	2021	NA
+finn-b-L12_ATOPIC	Atopic dermatitis		7024	2021	NA
+finn-b-J10_COPDNAS_INCLAVO	Other chronic obstructive pulmonary disease (J10_COPDNAS_INCLAVO)		7010	2021	NA
+finn-b-ST19_OPEN_WOUND_WRIST_HAND	Open wound of wrist and hand		7006	2021	NA
+finn-b-R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG	Abnormal findings on diagnostic imaging of lung		6999	2021	NA
+finn-b-M13_ARTHTROSIS_COX_PRIM_HIPSURG	Coxarthrosis, primary, with hip surgery		6978	2021	NA
+finn-b-AB1_VIRAL_SKIN_MUCOUS_MEMBRANE	Viral infections characterized by skin and mucous membrane lesions		6936	2021	NA
+finn-b-ST19_INJURI_THORAX	Injuries to the thorax		6931	2021	NA
+finn-b-J10_COPD	COPD		6915	2021	NA
+finn-b-H7_EYELIDDIS	Other disorders of eyelid		6844	2021	NA
+finn-b-R18_ABNORMAL_FINDI_EXAMI_BLOOD_WO_DIAGNOSIS	Abnormal findings on examination of blood, without diagnosis		6788	2021	NA
+finn-b-H7_VITRBODYGLOBE	Disorders of vitreous body		6782	2021	NA
+finn-b-J10_PLEURA	Other diseases of pleura		6755	2021	NA
+finn-b-T1D_WIDE	Type 1 diabetes, wide definition		6729	2021	NA
+finn-b-Z21_SPECIAL_SCREEN_EXAM_INFECTIOUS_PARASITIC_DISEA	Special screening examination for infectious and parasitic diseases		6641	2021	NA
+finn-b-DM_PERIPHATHERO	Peripheral atherosclerosis		6631	2021	NA
+finn-b-R18_UNSPE_HAEMATU	Unspecified haematuria		6619	2021	NA
+finn-b-F5_PERSOBEH	Disorders of adult personality and behaviour		6613	2021	NA
+finn-b-I9_ATHSCLE_EXNONE	"""Atherosclerosis, excluding cerebral, coronary and PAD"" (no controls excluded)"		6599	2021	NA
+finn-b-I9_ATHSCLE	Atherosclerosis, excluding cerebral, coronary and PAD		6599	2021	NA
+finn-b-O15_FALSE_LAB	False labour		6599	2021	NA
+finn-b-J10_COPDNAS	Other chronic obstructive pulmonary disease (J10_COPDNAS)		6595	2021	NA
+finn-b-R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_NERVOUS_MUSCULOS_SYSTEMS	Other symptoms and signs involving the nervous and musculoskeletal systems		6566	2021	NA
+finn-b-D3_APLASTICANDOTHANAEMIA	Aplastic and other anaemias		6554	2021	NA
+finn-b-L12_PAPULOSQUAMOUS	Papulosquamous disorders		6550	2021	NA
+finn-b-C3_MALE_GENITAL	malignant neoplasm of male genital organs		6542	2021	NA
+finn-b-C3_MALE_GENITAL_EXALLC	malignant neoplasm of male genital organs (all cancers excluded)		6542	2021	NA
+finn-b-DM_SEVERAL_COMPLICATIONS	Diabetes, several complications		6521	2021	NA
+finn-b-J10_SEPTDEV	Deviated nasal septum		6509	2021	NA
+finn-b-H7_MACULADEGEN	Degeneration of macula and posterior pole		6508	2021	NA
+finn-b-COPD_HOSPITAL	COPD, hospital admissions		6500	2021	NA
+finn-b-N14_FEMALEINFERT	Female infertility		6481	2021	NA
+finn-b-Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC2	Persons encountering health services in other circumstances (Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC2)		6407	2021	NA
+finn-b-CD2_BENIGN_SKIN	Other benign neoplasms of skin		6402	2021	NA
+finn-b-CD2_BENIGN_SKIN_EXALLC	Other benign neoplasms of skin (all cancers excluded)		6402	2021	NA
+finn-b-M13_RHEUMA_INCLAVO	Rheumatoid arthritis (M13_RHEUMA_INCLAVO)		6329	2021	NA
+finn-b-L12_URTICARIAERYTHEMA	Urticaria and erythema		6328	2021	NA
+finn-b-C3_PROSTATE	Malignant neoplasm of prostate		6311	2021	NA
+finn-b-C3_PROSTATE_EXALLC	Malignant neoplasm of prostate (all cancers excluded)		6311	2021	NA
+finn-b-N14_ABNORMALBLEED	Other abnormal uterine and caginal bleeding		6285	2021	NA
+finn-b-G6_EPLEPSY	Epilepsy		6260	2021	NA
+finn-b-KRA_PSY_PERSON	Personality disorders		6254	2021	NA
+finn-b-KRA_PSY_PERSON_EXMORE	Personality disorders (more controls excluded)		6254	2021	NA
+finn-b-M13_RHEUMA	Rheumatoid arthritis (M13_RHEUMA)		6236	2021	NA
+finn-b-H7_LACRIMALSYSTEM	Disorders of lacrimal system		6177	2021	NA
+finn-b-AB1_SEPSIS	Septicaemia		6164	2021	NA
+finn-b-D3_ANAEMIA_IRONDEF	Iron deficiency anaemia		6087	2021	NA
+finn-b-I9_VEINSOTH	Other disorders of veins		6073	2021	NA
+finn-b-I9_VEINSOTH_EXNONE	Other disorders of veins (no controls excluded)		6073	2021	NA
+finn-b-O15_PREG_DM	Diabetes mellitus in pregnancy		6033	2021	NA
+finn-b-D3_OTHERANAEMIA	Other anaemias		6005	2021	NA
+finn-b-N14_POSTMENBLEED	Postmenopausal bleeding		5965	2021	NA
+finn-b-ST19_INJURI_ABDOMEN_LOWER_BACK_LUMBAR_SPINE_PELVIS	Injuries to the abdomen, lower back, lumbar spine and pelvis		5953	2021	NA
+finn-b-N14_RENFAIL	Renal failure		5951	2021	NA
+finn-b-KRA_PSY_DEMENTIA	Any dementia		5933	2021	NA
+finn-b-KRA_PSY_DEMENTIA_EXMORE	Any dementia (more controls excluded)		5933	2021	NA
+finn-b-D3_ANAEMIANAS	Other and unspecified anaemias		5929	2021	NA
+finn-b-E4_DM1	Type 1 diabetes		5928	2021	NA
+finn-b-G6_AD_WIDE_EXMORE	"""Alzheimer<c3><95>s disease, wide definition"" (more controls excluded)"		5918	2021	NA
+finn-b-G6_AD_WIDE	Alzheimer<c3><95>s disease, wide definition		5918	2021	NA
+finn-b-E4_OBESITYCAL	Obesity due to excess calories		5883	2021	NA
+finn-b-F5_PSYCHOTH	Other and unspecified nonorganic psychotic disorders		5883	2021	NA
+finn-b-F5_ALCOHOL_DEPENDENCE	Alcohol dependence		5876	2021	NA
+finn-b-O15_CONCEPT_ABNORM	Other abnormal products of conception		5855	2021	NA
+finn-b-ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_ANKLE_FOOT_LEVEL	Dislocation, sprain and strain of joints and ligaments at ankle and foot level		5848	2021	NA
+finn-b-AB1_SEXUAL_TRANSMISSION	Infections with a predominantly sexual mode of transmission		5840	2021	NA
+finn-b-ST19_FRACT_SHOUL_UPPER_ARM	Fracture of shoulder and upper arm		5824	2021	NA
+finn-b-I9_CABG	Coronary artery bypass grafting		5779	2021	NA
+finn-b-I9_CABG_EXNONE	Coronary artery bypass grafting (no controls excluded)		5779	2021	NA
+finn-b-K11_DIAHER	Diaphragmatic hernia		5741	2021	NA
+finn-b-Z21_OUTCO_DELIV	Outcome of delivery		5729	2021	NA
+finn-b-R18_HAEMORRHAGE_RESPI_PASSA	Haemorrhage from respiratory passages		5717	2021	NA
+finn-b-R18_ABNORMALITI_HEART_BEAT	Abnormalities of heart beat		5693	2021	NA
+finn-b-GEST_DIABETES	Gestational diabetes (for exclusion)		5687	2021	NA
+finn-b-ST19_FRACT_WRIST_HAND_LEVEL	Fracture at wrist and hand level		5677	2021	NA
+finn-b-K11_IBD	Inflammatory bowel disease		5673	2021	NA
+finn-b-COPD_MODE	COPD (mode)		5669	2021	NA
+finn-b-N14_FIOTHNAS	Female infertility, cervigal, vaginal, other or unspecified origin		5667	2021	NA
+finn-b-M13_SYSTCONNECT	Systemic connective tissue disorders		5647	2021	NA
+finn-b-ATOPIC_STRICT_REIMB	Atopic dermatitis, strict definition with reimbursement		5646	2021	NA
+finn-b-ST19_INJURY_MUSCLE_TENDON_SHOUL_UPPER_ARM_LEVEL	Injury of muscle and tendon at shoulder and upper arm level		5637	2021	NA
+finn-b-H7_RETINALDETACH	Retinal detachments and breaks		5566	2021	NA
+finn-b-F5_SCHZPHR	Schizophrenia		5562	2021	NA
+finn-b-H7_KERATITIS	Keratitis		5561	2021	NA
+finn-b-ASTHMA_PNEUMONIA_AND_SEPSIS	Asthma-related pneumonia or sepsis		5545	2021	NA
+finn-b-ASTHMA_PNEUMONIA	Asthma-related pneumonia		5532	2021	NA
+finn-b-ALLERG_RHINITIS	Allergic rhinitis		5527	2021	NA
+finn-b-L12_RADIATIONRELATEDSKIN	Radiation-related disorders of the skin and subcutaneous tissue		5519	2021	NA
+finn-b-O15_PRETERM	Preterm labour and delivery		5480	2021	NA
+finn-b-O15_DELIV_CAESAR	Single delivery by caesarean section		5450	2021	NA
+finn-b-F5_PERSONALITY	Specific personality disorders		5409	2021	NA
+finn-b-AB1_OTHER_SEPSIS	Other septicaemia		5373	2021	NA
+finn-b-J10_CHRONRHINITIS	Chronic rhinitsi, nasopharyngitis and pharyngitis		5355	2021	NA
+finn-b-K11_PULP_PERIAPICAL	Diseases of pulp and periapical tissues		5354	2021	NA
+finn-b-N14_UROLITHIASIS	Urolithiasis		5347	2021	NA
+finn-b-M13_ENTESOPATHYOTH	Other enthesopathies		5341	2021	NA
+finn-b-ATOPIC_STRICT	Atopic  dermatitis, strict definition		5321	2021	NA
+finn-b-H7_VITROTH	Other and unspecified disorders of vitreous body		5304	2021	NA
+finn-b-N14_OTHNONINFUTER	Other noninflammatory disorders of uterus, except cervix		5280	2021	NA
+finn-b-C3_DIGESTIVE_ORGANS	Malignant neoplasm of digestive organs		5253	2021	NA
+finn-b-C3_DIGESTIVE_ORGANS_EXALLC	Malignant neoplasm of digestive organs (all cancers excluded)		5253	2021	NA

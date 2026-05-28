@@ -1,0 +1,22 @@
+outcome_label	id	source	path	consortium	n	ncase	year	notes
+parkinson	ieu-b-7	opengwas		IPDGC	482730	33674	2019	Nalls 2019 IPDGC meta
+alzheimer	ebi-a-GCST90027158	opengwas		Bellenguez	487511	39106	2022	Bellenguez 2022 EADB+IGAP meta
+cad	ebi-a-GCST005195	opengwas		CARDIoGRAMplusC4D	547261	122733	2017	van der Harst 2017
+stroke_isch	ebi-a-GCST006908	opengwas		MEGASTROKE	440328	34217	2018	Malik 2018 MEGASTROKE
+afib	ebi-a-GCST006414	opengwas		AFGen	1030836	60620	2018	Roselli 2018
+uc	ieu-a-32	opengwas		IIBDGC	27432	6968	2015	Liu 2015 IIBDGC (REPLACED Sakaue Pan-UKB linear; now log odds)
+crohn	ieu-a-30	opengwas		IIBDGC	20883	5956	2015	Liu 2015 IIBDGC
+ra	ebi-a-GCST90013534	opengwas		Ishigaki	58284	14361	2022	Ishigaki 2022 trans-ancestry (REPLACED Sakaue linear)
+sle	ebi-a-GCST003156	opengwas		ImmunoChip	14267	5201	2015	Bentham 2015
+ms	ieu-b-18	opengwas		IMSGC	115803	47429	2019	IMSGC 2019
+t2d	ebi-a-GCST006867	opengwas		DIAMANTE	655666	61714	2018	Mahajan 2018 DIAMANTE
+pancan	ebi-a-GCST90018893	opengwas		Sakaue Saux2021	476245	1196	2021	low ncase; best EUR available
+crc	ebi-a-GCST90018808	opengwas		Sakaue Saux2021	470002	6581	2021	moderate
+ida	ebi-a-GCST90018872	opengwas		Sakaue Saux2021	480941	12317	2021	iron deficiency anemia
+itp	ebi-a-GCST90018865	opengwas		Sakaue Saux2021	489424	675	2021	low ncase; smallest signal expected
+asthma	ieu-a-44	opengwas		TAGC	127669	19954	2018	Demenais 2018 TAGC (REPLACED Sakaue linear; now log odds)
+atopic	ebi-a-GCST90027161	opengwas		EAGLE+UKB	796661	22474	2021	Sliz 2022 (atopic dermatitis)
+# === Originally selected, REPLACED on 2026-05-20 due to BOLT-LMM linear scale ===
+# uc	ebi-a-GCST90038684	opengwas		Sakaue Saux2021 Pan-UKB	484598	2515	2021	BOLT linear, not log-OR; ORs nonsensical
+# ra	ebi-a-GCST90038685	opengwas		Sakaue Saux2021 Pan-UKB	484598	5427	2021	BOLT linear
+# asthma	ebi-a-GCST90038616	opengwas		Sakaue Saux2021 Pan-UKB	484598	56087	2021	BOLT linear (despite high ncase)
