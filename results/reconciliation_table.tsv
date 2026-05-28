@@ -1,0 +1,17 @@
+prior_study	exposure_prior	outcome_prior	prior_OR	prior_95CI	prior_P	our_antigen	our_outcome	our_OR	our_L95	our_U95	our_P	our_nSNP	concordant_direction	our_significant_FDR	reconciliation
+Cui 2024 (Front Microbiol)	H. pylori general (CagA+VacA)	IBD (combined)	1.16	1.03–1.31	<0.05	hpylori_general	crohn	0.993088191894917	0.505287786809056	1.95180683687057	0.983948508970564	11	FALSE	FALSE	prior magnitude implausible vs ours
+Cui 2024 (Front Microbiol)	H. pylori general (CagA+VacA)	UC	1.22	1.08–1.37	<0.001	hpylori_general	uc	1.03890360382555	0.706643581692916	1.52739050633698	0.846097393746951	11	TRUE	FALSE	prior magnitude implausible vs ours
+Sun 2024 (PLoS One)	IgG (general)	T2D	1.1	1.02–1.18	0.006	hpylori_general	t2d							FALSE	data missing
+Sun 2024 (PLoS One)	GroEL	T2D	1.03	1.00–1.06	0.028	groEL	t2d							FALSE	data missing
+Wang K 2025 (Medicine)	OMP	Pancreatic cancer	1.81	1.32–2.49	<0.001	omp	pancan	0.926966706971194	0.770488142982294	1.11522452831927	0.42143610912851	9	FALSE	FALSE	HLA pleiotropy candidate (our coloc: PP.H4<0.05)
+Zhang X 2024 (BMC Cardiovasc Disord)	VacA	Coronary atherosclerosis	1.06	1.01–1.10	0.016	vacA	cad	0.984501446960997	0.961353585816524	1.00820667168477	0.198192199449137	10	FALSE	FALSE	null in our analysis
+Guo X 2023 (Inflamm Res)	VacA	All-cause stroke	1.04	1.01–1.07	0.017	vacA	stroke_isch	1.03525753478371	1.00230477324741	1.06929368385027	0.0357739426781278	15	TRUE	FALSE	replicated
+EJMO 2024	UreA	Alzheimer	1.076	1.010–1.147	0.024	ureA	alzheimer	0.994040207300346	0.959730724980125	1.02957622175759	0.738714230562202	10	FALSE	FALSE	null in our analysis
+Chen Y 2025 (Mediterr J Hematol)	GroEL	Idiopathic thrombocytopenic purpura		positive (no CI extracted)	positive	groEL	itp	0.993264283720583	0.649398137973312	1.51921275966995	0.975132179812728	4		FALSE	concordant null
+Sci Rep 2025 (allergic)	OMP	Asthma		positive (no CI extracted)	positive	omp	asthma	0.89274925019694	0.678580307712601	1.17451275061868	0.417572083827933	4		FALSE	concordant null
+Wang X 2024 (Front Immunol)	7 antigens (panel)	Parkinson		null	null	omp	parkinson	1.04208071496089	0.936346891390025	1.15975417495253	0.450172784747991	7		FALSE	concordant null
+Li 2024 (Sci Rep)	IgG (general)	CHD		null	null	hpylori_general	cad	1.05868681451199	0.901492658585474	1.24329106903678	0.486789441369231	9		FALSE	concordant null
+Yang K 2024 (Medicine)	IgG (general)	Crohn		null	null	hpylori_general	crohn	0.993088191894917	0.505287786809056	1.95180683687057	0.983948508970564	11		FALSE	concordant null
+Yang K 2024 (Medicine)	IgG (general)	UC		null	null	hpylori_general	uc	1.03890360382555	0.706643581692916	1.52739050633698	0.846097393746951	11		FALSE	concordant null
+Luo F 2023 (Sci Rep)	CagA + IgG	CRC		null	null	cagA	crc	1.00229434364761	0.96260822202979	1.04361663272485	0.911472913965887	14		FALSE	concordant null
+Rao W 2025 (Cureus)	OMP (positive control)	Gastric cancer	1.19	1.08–1.30	<0.001	omp	gastric_cancer	1.18623578490866	1.07905857495728	1.30405834312893	0.000407970758245634	9	TRUE	TRUE	POSITIVE CONTROL replicated (OMP OR 1.19, P=4e-4)

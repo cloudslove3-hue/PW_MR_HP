@@ -1,0 +1,8 @@
+antigen	n_total	n_HLA_dropped	n_kept	HLA_SNPs
+hpylori_general	11	0	11	""
+cagA	15	1	14	rs3998182
+catalase	9	1	8	rs6456714
+groEL	5	0	5	""
+omp	10	2	8	rs3104361,rs9276733
+ureA	10	0	10	""
+vacA	15	1	14	rs372744619
